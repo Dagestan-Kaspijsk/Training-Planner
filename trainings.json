@@ -1,0 +1,17 @@
+[
+    {
+        date 2024-04-30,
+        type Кардио,
+        duration 30
+    },
+    {
+        date 2024-04-30,
+        type Силовая,
+        duration 60
+    },
+    {
+        date 2024-05-01,
+        type Йога,
+        duration 45
+    }
+]
